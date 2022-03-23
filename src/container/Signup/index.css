@@ -1,0 +1,55 @@
+
+.main-container{
+    height: 100rem;
+    width: 100%;
+    background-color: #f7f8fa;
+    margin: 0;
+    padding: 0;
+}
+.main{
+    margin: 80px 0 0;
+    padding: 50px 57px 50px 55px;
+    border-radius: 10px;
+    box-shadow: 0 20px 61px 0 rgba(65, 62, 101, 0.14);
+    background-color: #ffffff;
+}
+.input-field{
+    height: 60px;
+    border-radius: 15px;
+    border: solid 1px #eae9f2;
+    background-color: #ffffff;
+}
+.main-heading{
+    
+    font-size: 45px;
+    font-weight: 700;
+    line-height: 0.93;
+    letter-spacing: -1.03px;
+    text-align: center;
+    color: #1d293f
+}
+
+.sub-heading{
+
+    font-size: medium;
+    color: #696871;
+    font-weight: 500;
+    
+}
+.i-agree{
+    font-size: medium;
+    color: #696871;
+    font-weight: 400;
+}
+.iagree-terms{
+    color: #5454d4
+}
+.submit-button{
+    width: 8rem;
+    height: 3rem;
+    border-radius: 10px;
+    border: solid 1px #c31a12;
+    background-color: #f04037;
+    color: #ffffff;
+    text-align: center;
+}
